@@ -131,7 +131,7 @@ h6,
     align-items: center;
     justify-content: center;
     font-weight: normal;
-    border-radius: 50px;
+    border-radius: 10px 20px 10px;
 }
 
 .back-to-top {
